@@ -1,6 +1,3 @@
-Despite extensive research efforts, the mechanisms underlying cardiac arrhythmia, the most common cause of sudden cardiac death, are poorly defined. Major difficulties lie in the complexity and nonlinearity of the cardiac system, which spans different spatial and temporal scales, and species-specificity of several electrophysiological processes, which often precludes translation of results obtained in animal models to humans. Our research is hypothesis-driven and utilizes emerging tools of systems biology, including mathematical modeling and simulation, as an interpretative and predictive science to investigate the mechanisms of cardiac arrhythmias.
-
- 
 
 Ou major focus is on constructing biophysically detailed quantitative representations of the human heart cell function, integrating membrane ion transport, Ca handling and signaling, to unravel the cellular and molecular bases of arrhythmia in health and common widespread cardiovascular diseases, such as congestive and ischemic heart failure (HF) and atrial fibrillation (AF). Computational models are used throughout in association with experimental approaches.
 
