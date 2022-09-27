@@ -1,3 +1,4 @@
+Lab website: https://elegrandi.wixsite.com/grandilab
 
 Ou major focus is on constructing biophysically detailed quantitative representations of the human heart cell function, integrating membrane ion transport, Ca handling and signaling, to unravel the cellular and molecular bases of arrhythmia in health and common widespread cardiovascular diseases, such as congestive and ischemic heart failure (HF) and atrial fibrillation (AF). Computational models are used throughout in association with experimental approaches.
 
